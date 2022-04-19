@@ -67,7 +67,7 @@ function Footer() {
               TRVL <i className="fab fa-typo3"></i>
             </Link>
           </div>
-          <small className="website-rights">TRVL © 2020</small>
+          <small className="website-rights">OZNGRSC © 2020</small>
           <div className="social-icons">
             <Link
               className="social-icon-link facebook"
